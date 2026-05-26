@@ -3,11 +3,9 @@
 <p align="center">
   🌐
   <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=en">English</a> |
-  <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=zh-CN">简体中文</a> |
-  <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=zh-TW">繁體中文</a> |
   <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=es">Español</a> |
   <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=fr">Français</a> |
-  <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=ja">日本語</a>
+  <a href="https://openaitx.github.io/view.html?user=mahshid1378&project=ThinkSound&lang=ja">Japanese</a>
   
 </p>
 <p align="center">
